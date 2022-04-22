@@ -63,4 +63,4 @@ src="https://img.shields.io/twitch/status/new_tech2?logo=twitchsx&style=for-the-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/VISWANATH78/Highradius-project-winter_internship-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VISWANATH78&repo=Highradius-project-winter_internship-&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/VISWANATH78/Machine-Learning-Face-Detect-SNAPCHAT-BASIC-" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=VISWANATH78&repo=Machine-Learning-Face-Detect-SNAPCHAT-BASIC-&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
