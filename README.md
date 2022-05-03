@@ -7,7 +7,7 @@ Pythonist ,Data Science ,Web Developer and Web Designer
 I love to Explore Technology and Learn new cool programming languages ,I am an 3 rd year B.Tech Student in SRM Uninversity. Which means i am an student who loves to learn and Explore alot in Tech based fields.
 
 * 🌍  I'm based in Chennai
-* ✉️  You can contact me at [Newtech110602@gmail.com](mailto:Newtech110602@gmail.com)
+* ✉️  You can contact me at [Newtech110602@gmail.com](mailto:vichu110602@gmail.com)
 * 🧠  I'm learning Data Science,React js ,Java
 * 🤝  I'm open to collaborating on AI based project and ML based projects
 * ⚡  i 'm secretly an Tech-worm don't tell anyone !
