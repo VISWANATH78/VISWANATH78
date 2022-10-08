@@ -4,7 +4,7 @@ Hi 👋 My name is V S VISWANATH
 Pythonist ,Data Science ,Web Developer and Web Designer
 -------------------------------------------------------
 
-I love to Explore Technology and Learn new cool programming languages ,I am an 3 rd year B.Tech Student in SRM Uninversity. Which means i am an student who loves to learn and Explore alot in Tech based fields.
+I love to Explore Technology and Learn new cool programming languages ,I am an Final year B.Tech Student in SRM University. Which means i am an student who loves to learn and Explore alot in Tech based fields.
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [vichu110602@gmail.com](mailto:vichu110602@gmail.com)
